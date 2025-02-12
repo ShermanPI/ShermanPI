@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ShermanPI
-- 👀 I’m interested in ... Cats!!!
-- 🌱 I’m currently learning ... React⚛️
-- 💞️ I’m looking to collaborate on ... yes
 - 📫 How to reach me ... shermanperez0@gmail.com
 
 <!---
